@@ -14,7 +14,8 @@ Once an employee leaves, he or she is taken an interview with the name "exit int
 
 This suffers from the following problems:
 
-    This approach is that it's too haphazard. The quality of insight gained from an interview depends heavily on the skill of the interviewer.
+    This approach is that it's too haphazard. The quality of insight gained from an interview depends
+    heavily on the skill of the interviewer.
     The second problem is these insights can't be aggregated and interlaced across all employees who have left.
     The third is that it is too late by the time the proposed policy changes take effect.
 
